@@ -1,0 +1,9 @@
+About this file
+This file contains the basic information (ID, age, gender, income, spending score) about the customers
+
+Columns
+1. CustomerIDUnique ID assigned to the customer
+2. GenderGender of the customer
+3. AgeAge of the customer
+4. Annual Income (k$)Annual Income of the customee
+5. Spending Score (1-100)Score assigned by the mall based on customer behavior and spending nature
